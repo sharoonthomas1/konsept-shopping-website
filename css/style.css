@@ -370,7 +370,7 @@ header {
 .img-slider {
     margin-top: 20px;
     max-width: 100%;
-    height: 750px;
+    height: 650px;
     background-size: 100% 100%;
     background-image: url("/img/Home1_section4_video-2048x774.jpg");
     animation: imgchange 12s linear infinite;
