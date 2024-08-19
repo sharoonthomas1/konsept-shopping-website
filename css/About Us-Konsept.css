@@ -1,0 +1,89 @@
+ body {
+     padding: 0%;
+     margin: 0%;
+ }
+
+ /* section */
+ .section {
+     background-image: url("/img/About-us_bg.jpg");
+     width: 100%;
+     background-size: cover;
+     height: 420px;
+     margin-top: 20px;
+     position: relative;
+ }
+
+ .sec-heading {
+     font-family: "Josefin Sans", sans-serif;
+     font-weight: 300;
+     color: #ffffff;
+     font-size: 20px;
+     line-height: 1.33em;
+     letter-spacing: .23em;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+ }
+
+ .section-3 {
+     margin-top: 0 !important;
+     background-image: url("/img/about-us-bg-2.png") !important;
+ }
+
+ .heading-sec-3 {
+     color: #ef5b47 !important;
+     margin-left: 0 !important;
+ }
+
+ .sub-heading-sec3,
+ .sec-3para {
+     color: #000 !important;
+     margin-left: 0 !important;
+ }
+
+ .btn2 {
+     border: 1px solid #000 !important;
+     color: #000 !important;
+ }
+
+ .bg_color {
+     background-color: #F7F8F9;
+     padding: 120px 0;
+ }
+
+ .heading-sec-5 {
+     line-height: 65px;
+     font-size: 55pX;
+     font-family: The Gwathmey;
+     color: #EF5B47;
+
+
+ }
+
+ @media(max-width:426px) and (min-width: 377px) {
+     .heading-sec11 {
+         padding-top: 40px;
+     }
+
+     .about_heading {
+         font-size: 28px;
+     }
+ }
+
+ @media(max-width:768px) and (min-width: 427px) {
+     .heading-sec11 {
+         padding-top: 40px;
+     }
+ }
+
+ @media(max-width:1025px) and (min-width:769px) {
+     .heading-sec11 {
+         padding-top: 40px;
+     }
+
+     .section-3 {
+         background-size: contain !important;
+
+     }
+ }
