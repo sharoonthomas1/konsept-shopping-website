@@ -1539,6 +1539,7 @@ section img {
 
     .section-3 {
         background-size: cover;
+        height:24vh!important;
     }
 
     .text-sec-3 {
