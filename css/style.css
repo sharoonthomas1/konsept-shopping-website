@@ -1539,7 +1539,7 @@ section img {
 
     .section-3 {
         background-size: cover;
-        height:90vh!important;
+        height:70vh!important;
     }
 
     .text-sec-3 {
@@ -1733,7 +1733,7 @@ section img {
 
     .section-3 {
         background-size: cover;
-                height: 40vh!important;
+                height: 90vh!important;
     }
 
     .text-sec-3 {
@@ -1915,9 +1915,9 @@ section img {
         height: 100vh;
     }
 
-    .text-sec-3 {
-        top: 2%;
-        right: 0%;
+        .text-sec-3 {
+        top: 19%;
+        right: 10%;
     }
 
     .sec-4main,
